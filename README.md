@@ -1,4 +1,5 @@
-# Distributed Booking Engine & Async Waitlist Orchestrator
+# Reserver: A Zero Race Reservation System
+## Distributed Booking Engine & Async Waitlist Orchestrator
 
 ## 🚀 Overview
 
