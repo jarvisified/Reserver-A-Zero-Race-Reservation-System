@@ -3,7 +3,7 @@ Distributed Booking Engine & Async Waitlist Orchestrator
 
 ## 🚀 Overview
 
-A high-concurrency, FAANG-grade distributed system designed to handle massive traffic spikes during limited-inventory booking events (e.g., campus placements, flash sales). This engine eliminates database race conditions and double-booking using a distributed Redis Mutex, while ensuring a seamless user experience by routing overflow traffic into an asynchronous message queue for automated waitlist resolution.
+A high-concurrency distributed system designed to handle massive traffic spikes during limited-inventory booking events (e.g., campus placements, flash sales). This engine eliminates database race conditions and double-booking using a distributed Redis Mutex, while ensuring a seamless user experience by routing overflow traffic into an asynchronous message queue for automated waitlist resolution.
 
 ## 🏗️ System Architecture
 
