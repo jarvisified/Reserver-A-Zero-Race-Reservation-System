@@ -25,7 +25,7 @@ Instead of outright failing the 999 rejected requests, the API seamlessly pushes
 
 ## 💻 Tech Stack
 
-* **Backend API:** Python (FastAPI) or Go
+* **Backend API:** Python (FastAPI)
 * **Primary Database:** PostgreSQL (ACID compliant, Row-Level Locking)
 * **Distributed Lock & Message Broker:** Redis
 * **Simulation/Load Testing:** Python (`asyncio`, `aiohttp`)
