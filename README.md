@@ -36,7 +36,7 @@ Admins can shut down an event in real-time. Using the Redis `RENAME` command (an
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/reserver-distributed-engine.git](https://github.com/yourusername/reserver-distributed-engine.git)
+git clone https://github.com/jarvisified/Reserver-A-Zero-Race-Reservation-System.git
 cd reserver-distributed-engine
 ```
 
